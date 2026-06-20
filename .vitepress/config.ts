@@ -12,6 +12,9 @@ export default defineConfigWithAllYouNeed(
   {
     title: 'Physik Matura 2026',
     description: 'Lernkompendium · Themen, Herleitungen, Prüfungssimulation',
+    head: [
+      ['link', { rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg' }],
+    ],
     cleanUrls: true,
     buildConcurrency: 8, // keep MathJax-heavy production builds within memory limits
     srcExclude: ['README.md', 'BUGS.md'],   // README↔index conflict; BUGS.md contains repro tables (not a site page)
@@ -59,6 +62,18 @@ export default defineConfigWithAllYouNeed(
   // ── vitepress-allyouneed options ──────────────────────────────────────
   {
     deadLink: 'warn',
+    modules: {
+      views: true,
+      highlight: true,
+    },
+    views: {
+      enabled: {
+        graph: true,
+        stats: true,
+        tags: true,
+      },
+      injectInto: 'nav',
+    },
     wikilinks: {
       anchorMatch: 'fuzzy',     // match anchors like [[#Biomarker]], [[#(3) …]] (non-numeric headings)
     },

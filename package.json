@@ -15,6 +15,7 @@
   "dependencies": {
     "markdown-it-mathjax3": "^4.3.2",
     "vitepress": "^1.6.4",
-    "vitepress-allyouneed": "0.5.5"
+    "vitepress-allyouneed": "0.5.6",
+    "vp-raspberry": "https://github.com/tangxiaoyi97/vitepress-Raspberry-theme/archive/6d3acc845fb48575a08404a9357d1f35e689ca65.tar.gz"
   }
 }

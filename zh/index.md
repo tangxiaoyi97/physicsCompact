@@ -23,6 +23,21 @@ hero:
       link: /zh/selfcheck/
 
 features:
+  - icon: 🕸️
+    title: 知识图谱
+    details: 以交互网络查看讲义、推导与知识点之间的关联。
+    link: /_perspectives_/graph
+    linkText: 打开图谱
+  - icon: 🏷️
+    title: 标签索引
+    details: 按物理领域、语言和章节类型筛选全部内容。
+    link: /_perspectives_/tags
+    linkText: 浏览标签
+  - icon: 📊
+    title: 知识库统计
+    details: 查看页面规模、链接关系与最近更新。
+    link: /_perspectives_/stats
+    linkText: 查看统计
   - icon: 🍴
     title: Fork on GitHub
     details: 源码与内容在 GitHub —— fork、贡献、搭建你自己的归档。

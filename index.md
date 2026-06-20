@@ -17,6 +17,21 @@ hero:
       link: /selfcheck/
 
 features:
+  - icon: 🕸️
+    title: Wissensgraph
+    details: Themen, Herleitungen und Querverweise als interaktives Netzwerk erkunden.
+    link: /_perspectives_/graph
+    linkText: Graph öffnen
+  - icon: 🏷️
+    title: Tags
+    details: Alle Inhalte nach Fachgebiet, Sprache und Kapiteltyp filtern.
+    link: /_perspectives_/tags
+    linkText: Tags durchsuchen
+  - icon: 📊
+    title: Vault-Statistik
+    details: Umfang, Verknüpfungen und letzte Änderungen des Lernarchivs ansehen.
+    link: /_perspectives_/stats
+    linkText: Statistik öffnen
   - icon: 🍴
     title: Fork on GitHub
     details: Quellcode und Inhalte auf GitHub — forken, beitragen, eigenes Archiv bauen.

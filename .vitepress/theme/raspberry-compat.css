@@ -1,0 +1,31 @@
+/* Compatibility between vp-raspberry and vitepress-allyouneed. */
+
+/* Raspberry makes the whole top-level row a collapse target and disables the
+   group link. allyouneed uses authored index.md pages as real landing pages. */
+.VPSidebarItem.level-0.collapsible > .item > .VPLink {
+  pointer-events: auto;
+}
+
+.VPSidebarItem.level-0.collapsible > .item .caret::after {
+  left: auto;
+  right: -8px;
+  width: 36px;
+}
+
+/* Raspberry styles KaTeX displays; PhysicsCompact uses MathJax SVG output. */
+.vp-doc mjx-container[display='true'] {
+  overflow-x: auto;
+  overflow-y: hidden;
+  margin: 2rem 0;
+  padding: 1.25rem;
+  border: 1px solid var(--vp-c-border);
+  border-radius: var(--vp-radius-base);
+  background: var(--vp-c-bg-soft);
+}
+
+/* Keep generated perspective views comfortably wide and readable. */
+.vp-doc:has(.ayn-tags),
+.vp-doc:has(.ayn-stats),
+.vp-doc:has(.ayn-graph) {
+  max-width: none;
+}
