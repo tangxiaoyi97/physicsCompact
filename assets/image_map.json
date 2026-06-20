@@ -1,0 +1,506 @@
+[
+  {
+    "chap": "1 Kurze Geschichte der Physik",
+    "sub": "1.1.1 Thales von Milet (1. Philosoph)",
+    "rid": "rId8",
+    "file": "image1.png"
+  },
+  {
+    "chap": "1 Kurze Geschichte der Physik",
+    "sub": "1.1.3 Zenon von Elea",
+    "rid": "rId9",
+    "file": "image2.png"
+  },
+  {
+    "chap": "1 Kurze Geschichte der Physik",
+    "sub": "1.3.2 Vereinheitlichungsprinzip",
+    "rid": "rId10",
+    "file": "image3.png"
+  },
+  {
+    "chap": "2 Elementarteilchenphysik",
+    "sub": "",
+    "rid": "rId11",
+    "file": "image4.png"
+  },
+  {
+    "chap": "2 Elementarteilchenphysik",
+    "sub": "",
+    "rid": "rId12",
+    "file": "image5.png"
+  },
+  {
+    "chap": "2 Elementarteilchenphysik",
+    "sub": "",
+    "rid": "rId13",
+    "file": "image6.png"
+  },
+  {
+    "chap": "2 Elementarteilchenphysik",
+    "sub": "2.1.1 Quark-Aufbau von Protonen und Neutronen",
+    "rid": "rId14",
+    "file": "image7.png"
+  },
+  {
+    "chap": "2 Elementarteilchenphysik",
+    "sub": "2.1.1 Quark-Aufbau von Protonen und Neutronen",
+    "rid": "rId15",
+    "file": "image8.png"
+  },
+  {
+    "chap": "2 Elementarteilchenphysik",
+    "sub": "2.1.1 Quark-Aufbau von Protonen und Neutronen",
+    "rid": "rId16",
+    "file": "image9.png"
+  },
+  {
+    "chap": "2 Elementarteilchenphysik",
+    "sub": "2.3.1 Forschungsziele am LHC",
+    "rid": "rId17",
+    "file": "image10.png"
+  },
+  {
+    "chap": "2 Elementarteilchenphysik",
+    "sub": "2.3.1 Forschungsziele am LHC",
+    "rid": "rId18",
+    "file": "image11.png"
+  },
+  {
+    "chap": "3 Atom und Kernphysik",
+    "sub": "3.2.2 Das Experiment von Rutherford",
+    "rid": "rId19",
+    "file": "image12.png"
+  },
+  {
+    "chap": "3 Atom und Kernphysik",
+    "sub": "3.3.1 Die drei wichtigsten ionisierenden Strahlungen",
+    "rid": "rId20",
+    "file": "image13.png"
+  },
+  {
+    "chap": "3 Atom und Kernphysik",
+    "sub": "3.3.5 Die Zerfallskurve:",
+    "rid": "rId21",
+    "file": "image14.png"
+  },
+  {
+    "chap": "4 Klassische Mechanik",
+    "sub": "4.1.3 Hören einmal bewegte Körper von selbst auf sich zu bewegen?",
+    "rid": "rId22",
+    "file": "image15.png"
+  },
+  {
+    "chap": "4 Klassische Mechanik",
+    "sub": "4.3.3 Die drei wichtigsten Formen der Bewegung",
+    "rid": "rId23",
+    "file": "image16.png"
+  },
+  {
+    "chap": "4 Klassische Mechanik",
+    "sub": "4.3.3 Die drei wichtigsten Formen der Bewegung",
+    "rid": "rId24",
+    "file": "image17.png"
+  },
+  {
+    "chap": "4 Klassische Mechanik",
+    "sub": "4.3.3 Die drei wichtigsten Formen der Bewegung",
+    "rid": "rId25",
+    "file": "image18.png"
+  },
+  {
+    "chap": "4 Klassische Mechanik",
+    "sub": "4.4.3 Beispiel für eine spezielle Kraft: Die Hook’sche Kraft",
+    "rid": "rId26",
+    "file": "image19.png"
+  },
+  {
+    "chap": "4 Klassische Mechanik",
+    "sub": "4.4.3 Beispiel für eine spezielle Kraft: Die Hook’sche Kraft",
+    "rid": "rId27",
+    "file": "image20.png"
+  },
+  {
+    "chap": "4 Klassische Mechanik",
+    "sub": "4.5.3 Energie",
+    "rid": "rId28",
+    "file": "image21.png"
+  },
+  {
+    "chap": "5 Elektrizitätstheorie",
+    "sub": "5.1.3 Die elektrische Ladung (Buch 6, Seite 87-88)",
+    "rid": "rId29",
+    "file": "image22.png"
+  },
+  {
+    "chap": "5 Elektrizitätstheorie",
+    "sub": "5.1.4 Stromleitung und Milikan-Experiment",
+    "rid": "rId30",
+    "file": "image23.png"
+  },
+  {
+    "chap": "5 Elektrizitätstheorie",
+    "sub": "5.1.4 Stromleitung und Milikan-Experiment",
+    "rid": "rId31",
+    "file": "image24.jpeg"
+  },
+  {
+    "chap": "5 Elektrizitätstheorie",
+    "sub": "5.1.4 Stromleitung und Milikan-Experiment",
+    "rid": "rId32",
+    "file": "image25.png"
+  },
+  {
+    "chap": "5 Elektrizitätstheorie",
+    "sub": "5.1.4 Stromleitung und Milikan-Experiment",
+    "rid": "rId33",
+    "file": "image26.png"
+  },
+  {
+    "chap": "5 Elektrizitätstheorie",
+    "sub": "5.1.4 Stromleitung und Milikan-Experiment",
+    "rid": "rId34",
+    "file": "image27.png"
+  },
+  {
+    "chap": "5 Elektrizitätstheorie",
+    "sub": "5.1.5 Gewitter, Blitz und Donner",
+    "rid": "rId35",
+    "file": "image28.png"
+  },
+  {
+    "chap": "5 Elektrizitätstheorie",
+    "sub": "5.1.5 Gewitter, Blitz und Donner",
+    "rid": "rId36",
+    "file": "image29.png"
+  },
+  {
+    "chap": "5 Elektrizitätstheorie",
+    "sub": "5.1.7 Theorie des elektrischen Stromes und Messungen",
+    "rid": "rId37",
+    "file": "image30.png"
+  },
+  {
+    "chap": "5 Elektrizitätstheorie",
+    "sub": "5.1.7 Theorie des elektrischen Stromes und Messungen",
+    "rid": "rId38",
+    "file": "image31.png"
+  },
+  {
+    "chap": "5 Elektrizitätstheorie",
+    "sub": "5.1.7 Theorie des elektrischen Stromes und Messungen",
+    "rid": "rId39",
+    "file": "image32.png"
+  },
+  {
+    "chap": "5 Elektrizitätstheorie",
+    "sub": "5.1.7 Theorie des elektrischen Stromes und Messungen",
+    "rid": "rId40",
+    "file": "image33.png"
+  },
+  {
+    "chap": "5 Elektrizitätstheorie",
+    "sub": "5.1.8 Das Ohm’sche Gesetz",
+    "rid": "rId41",
+    "file": "image34.png"
+  },
+  {
+    "chap": "5 Elektrizitätstheorie",
+    "sub": "5.1.8 Das Ohm’sche Gesetz",
+    "rid": "rId42",
+    "file": "image35.png"
+  },
+  {
+    "chap": "5 Elektrizitätstheorie",
+    "sub": "5.1.9 Der spezifische Widerstand",
+    "rid": "rId43",
+    "file": "image36.png"
+  },
+  {
+    "chap": "5 Elektrizitätstheorie",
+    "sub": "5.1.10 Experimentelle Bestätigung der Temperatur Abhängigkeit des Widerstands mittels einer direkten und indirekten Messung einer Glühbirne",
+    "rid": "rId44",
+    "file": "image37.png"
+  },
+  {
+    "chap": "6 Optik/Wellenphysik/Quantenphysik",
+    "sub": "6.1.1 Klassische Theorien",
+    "rid": "rId45",
+    "file": "image38.png"
+  },
+  {
+    "chap": "6 Optik/Wellenphysik/Quantenphysik",
+    "sub": "6.2.1 Einige Bemerkungen zur Quantenphilosophie",
+    "rid": "rId46",
+    "file": "image39.png"
+  },
+  {
+    "chap": "6 Optik/Wellenphysik/Quantenphysik",
+    "sub": "6.2.3 Graphische und mathematische Beschreibung einer Welle",
+    "rid": "rId47",
+    "file": "image40.png"
+  },
+  {
+    "chap": "6 Optik/Wellenphysik/Quantenphysik",
+    "sub": "6.3.1 Geometrische Optik/Strahlenoptik:",
+    "rid": "rId48",
+    "file": "image41.png"
+  },
+  {
+    "chap": "6 Optik/Wellenphysik/Quantenphysik",
+    "sub": "6.3.2 Wellenoptik",
+    "rid": "rId49",
+    "file": "image42.png"
+  },
+  {
+    "chap": "6 Optik/Wellenphysik/Quantenphysik",
+    "sub": "6.3.3 Quantenoptik",
+    "rid": "rId50",
+    "file": "image43.png"
+  },
+  {
+    "chap": "6 Optik/Wellenphysik/Quantenphysik",
+    "sub": "6.4 Doppelspaltexperiment(Seite 74-77)",
+    "rid": "rId51",
+    "file": "image44.png"
+  },
+  {
+    "chap": "6 Optik/Wellenphysik/Quantenphysik",
+    "sub": "6.4 Doppelspaltexperiment(Seite 74-77)",
+    "rid": "rId52",
+    "file": "image45.png"
+  },
+  {
+    "chap": "6 Optik/Wellenphysik/Quantenphysik",
+    "sub": "6.4 Doppelspaltexperiment(Seite 74-77)",
+    "rid": "rId53",
+    "file": "image46.png"
+  },
+  {
+    "chap": "6 Optik/Wellenphysik/Quantenphysik",
+    "sub": "6.4 Doppelspaltexperiment(Seite 74-77)",
+    "rid": "rId54",
+    "file": "image47.png"
+  },
+  {
+    "chap": "6 Optik/Wellenphysik/Quantenphysik",
+    "sub": "6.4 Doppelspaltexperiment(Seite 74-77)",
+    "rid": "rId55",
+    "file": "image48.png"
+  },
+  {
+    "chap": "6 Optik/Wellenphysik/Quantenphysik",
+    "sub": "6.4 Doppelspaltexperiment(Seite 74-77)",
+    "rid": "rId56",
+    "file": "image49.png"
+  },
+  {
+    "chap": "6 Optik/Wellenphysik/Quantenphysik",
+    "sub": "6.4 Doppelspaltexperiment(Seite 74-77)",
+    "rid": "rId57",
+    "file": "image50.png"
+  },
+  {
+    "chap": "6 Optik/Wellenphysik/Quantenphysik",
+    "sub": "6.4.4 Dekohärenz",
+    "rid": "rId58",
+    "file": "image51.png"
+  },
+  {
+    "chap": "6 Optik/Wellenphysik/Quantenphysik",
+    "sub": "6.4.4 Dekohärenz",
+    "rid": "rId59",
+    "file": "image52.png"
+  },
+  {
+    "chap": "7 Gravitationstheorie",
+    "sub": "7.1.1 Aristoteles:",
+    "rid": "rId60",
+    "file": "image53.jpeg"
+  },
+  {
+    "chap": "7 Gravitationstheorie",
+    "sub": "7.1.3 Ptolemäus (87-165 n. Chr.)",
+    "rid": "rId61",
+    "file": "image54.png"
+  },
+  {
+    "chap": "7 Gravitationstheorie",
+    "sub": "7.1.3 Ptolemäus (87-165 n. Chr.)",
+    "rid": "rId62",
+    "file": "image55.png"
+  },
+  {
+    "chap": "7 Gravitationstheorie",
+    "sub": "7.1.4 Kopernikus (1473-1543)",
+    "rid": "rId63",
+    "file": "image56.png"
+  },
+  {
+    "chap": "7 Gravitationstheorie",
+    "sub": "7.2 Allgemeine Relativitätstheorie",
+    "rid": "rId64",
+    "file": "image57.png"
+  },
+  {
+    "chap": "7 Gravitationstheorie",
+    "sub": "7.2.1 Das Äquivalenzprinzip",
+    "rid": "rId65",
+    "file": "image58.png"
+  },
+  {
+    "chap": "7 Gravitationstheorie",
+    "sub": "7.2.1 Das Äquivalenzprinzip",
+    "rid": "rId66",
+    "file": "image59.png"
+  },
+  {
+    "chap": "7 Gravitationstheorie",
+    "sub": "7.2.1 Das Äquivalenzprinzip",
+    "rid": "rId67",
+    "file": "image60.png"
+  },
+  {
+    "chap": "7 Gravitationstheorie",
+    "sub": "7.2.2 Einige Effekte der allgemeinen Relativitätstheorie",
+    "rid": "rId68",
+    "file": "image61.jpeg"
+  },
+  {
+    "chap": "7 Gravitationstheorie",
+    "sub": "7.2.2 Einige Effekte der allgemeinen Relativitätstheorie",
+    "rid": "rId69",
+    "file": "image62.jpeg"
+  },
+  {
+    "chap": "7 Gravitationstheorie",
+    "sub": "7.2.2 Einige Effekte der allgemeinen Relativitätstheorie",
+    "rid": "rId70",
+    "file": "image63.png"
+  },
+  {
+    "chap": "7 Gravitationstheorie",
+    "sub": "7.3.1 Gedankenexperiment von Newton",
+    "rid": "rId71",
+    "file": "image64.png"
+  },
+  {
+    "chap": "7 Gravitationstheorie",
+    "sub": "7.3.2 Das Newton’sche Gavitationsgesetz",
+    "rid": "rId72",
+    "file": "image65.png"
+  },
+  {
+    "chap": "7 Gravitationstheorie",
+    "sub": "7.3.4 Das Experiment von Cavendish (1798)-Basiswissen 5, Seite 58.",
+    "rid": "rId73",
+    "file": "image66.jpeg"
+  },
+  {
+    "chap": "7 Gravitationstheorie",
+    "sub": "7.3.4 Das Experiment von Cavendish (1798)-Basiswissen 5, Seite 58.",
+    "rid": "rId74",
+    "file": "image67.png"
+  },
+  {
+    "chap": "7 Gravitationstheorie",
+    "sub": "7.3.4 Das Experiment von Cavendish (1798)-Basiswissen 5, Seite 58.",
+    "rid": "rId75",
+    "file": "image68.png"
+  },
+  {
+    "chap": "7 Gravitationstheorie",
+    "sub": "7.4.1 Erstes Kepler’sches Gesetz",
+    "rid": "rId76",
+    "file": "image69.png"
+  },
+  {
+    "chap": "7 Gravitationstheorie",
+    "sub": "7.4.2 Zweites Kepler’sches Gesetz",
+    "rid": "rId77",
+    "file": "image70.png"
+  },
+  {
+    "chap": "7 Gravitationstheorie",
+    "sub": "7.4.2 Zweites Kepler’sches Gesetz",
+    "rid": "rId78",
+    "file": "image71.png"
+  },
+  {
+    "chap": "7 Gravitationstheorie",
+    "sub": "7.4.3 Drittes Kepler’sches Gesetz",
+    "rid": "rId79",
+    "file": "image72.png"
+  },
+  {
+    "chap": "7 Gravitationstheorie",
+    "sub": "7.7 Fluchtgeschwindigkeit",
+    "rid": "rId80",
+    "file": "image73.png"
+  },
+  {
+    "chap": "7 Gravitationstheorie",
+    "sub": "7.8 Schwarze Löcher",
+    "rid": "rId81",
+    "file": "image74.jpeg"
+  },
+  {
+    "chap": "7 Gravitationstheorie",
+    "sub": "7.8 Schwarze Löcher",
+    "rid": "rId82",
+    "file": "image75.jpeg"
+  },
+  {
+    "chap": "8 Unser Sonnensystem",
+    "sub": "",
+    "rid": "rId83",
+    "file": "image76.jpeg"
+  },
+  {
+    "chap": "8 Unser Sonnensystem",
+    "sub": "8.1 Die Sonne",
+    "rid": "rId84",
+    "file": "image77.jpeg"
+  },
+  {
+    "chap": "8 Unser Sonnensystem",
+    "sub": "8.1 Die Sonne",
+    "rid": "rId85",
+    "file": "image78.jpeg"
+  },
+  {
+    "chap": "8 Unser Sonnensystem",
+    "sub": "8.1.1 Der Proton-Proton Zyklus",
+    "rid": "rId86",
+    "file": "image79.png"
+  },
+  {
+    "chap": "9 Astrophysik außerhalb unseres Sonnensystems",
+    "sub": "9.1 Exoplaneten",
+    "rid": "rId87",
+    "file": "image80.png"
+  },
+  {
+    "chap": "9 Astrophysik außerhalb unseres Sonnensystems",
+    "sub": "9.1 Exoplaneten",
+    "rid": "rId88",
+    "file": "image81.png"
+  },
+  {
+    "chap": "9 Astrophysik außerhalb unseres Sonnensystems",
+    "sub": "9.1 Exoplaneten",
+    "rid": "rId89",
+    "file": "image82.png"
+  },
+  {
+    "chap": "9 Astrophysik außerhalb unseres Sonnensystems",
+    "sub": "9.2.1 Spektroskopische Untersuchung der Planetenatmosphäre",
+    "rid": "rId90",
+    "file": "image83.png"
+  },
+  {
+    "chap": "9 Astrophysik außerhalb unseres Sonnensystems",
+    "sub": "9.2.1 Spektroskopische Untersuchung der Planetenatmosphäre",
+    "rid": "rId91",
+    "file": "image84.png"
+  }
+]
