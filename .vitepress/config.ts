@@ -81,7 +81,7 @@ export default defineConfigWithAllYouNeed(
       mode: 'force',              // always generate the sidebar
       layout: 'per-folder',       // each top-level section gets its own sidebar, swapped by URL
       autoNav: false,             // nav is defined manually per locale (the 3 sections)
-      collapsed: false,
+      collapsed: true,
       sortBy: 'order-then-title', // respect frontmatter `order`
       stripNumericPrefix: false,  // filenames have no numeric prefix anymore
       foldersFirst: true,         // chapter folders before loose pages
